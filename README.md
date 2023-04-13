@@ -3,10 +3,10 @@
 Caro desenvolvedor, seja bem vindo ao teste prático para medir o nível de conhecimento nas áreas em que a vaga será exigida.
 
 ### Objetivos
-Conhecer um pouco de suas habilidades em: PHP / Frameworks PHP;
-Entendimento e análise dos requisitos;
-Determinação na busca de soluções;
-Criatividade.
+- Conhecer um pouco de suas habilidades em: PHP / Frameworks PHP;
+- Entendimento e análise dos requisitos;
+- Determinação na busca de soluções;
+- Criatividade.
 
 ### Termo de responsabilidade
 Todo e qualquer código desenvolvido nesse teste, não será utilizado em quaisquer outros softwares e nem comercializado por nós. 
