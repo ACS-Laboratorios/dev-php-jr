@@ -19,7 +19,8 @@ Pode ficar a vontade para explorar o seu conhecimento em automação de tarefas 
 - Autenticação por login e senha;
 - Ter listas com possibilidade de CRUD;
 - Listas com busca e paginação;
-- Fazer o redirecionamento de uma pagina para outra.
+- Fazer o redirecionamento de uma pagina para outra;
+- Utilizar SESSION, POST e GET.
 
 ### Plus
  **Não é obrigatório, mas será muito bom se você:**
