@@ -39,6 +39,9 @@ Pode ficar a vontade para explorar o seu conhecimento em automação de tarefas 
 ### Finalização
 Após concluir a aplicação, pode enviar o link do projeto no github ou similar através do e-mail desenvolvimento@acslab.com.br
 
+### Prazo para Entrega
+- Estaremos aceitando os testes desenvolvidos até o dia 28/04/2023.
+
 ## Boa sorte !
 
 
