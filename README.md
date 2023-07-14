@@ -13,7 +13,7 @@ Todo e qualquer código desenvolvido nesse teste, não será utilizado em quaisq
 O propósito deste teste é apenas avaliar o conhecimento em programação do candidato.
 
 ### Instruções
-Você deve criar um gerenciador de veículos conforme os requisitos abaixo, desenvolver com o php versão 7.4, para o banco de dados utilizar Mysql ou SQLite.
+Você deve criar um gerenciador de academia conforme os requisitos abaixo, desenvolver com o php versão 7.4, para o banco de dados utilizar Mysql ou SQLite.
 Pode ficar a vontade para explorar o seu conhecimento em automação de tarefas utilizando qualquer ferramenta que lhe torne produtivo.
 
 - Autenticação por login e senha;
@@ -40,8 +40,6 @@ Pode ficar a vontade para explorar o seu conhecimento em automação de tarefas 
 Após concluir a aplicação, pode enviar o link do projeto no github ou similar através do e-mail desenvolvimento@acslab.com.br
 
 ### Prazo para Entrega
-- Estaremos aceitando os testes desenvolvidos até o dia 28/04/2023.
+- Estaremos aceitando os testes desenvolvidos até o dia 07/08/2023.
 
 ## Boa sorte !
-
-
